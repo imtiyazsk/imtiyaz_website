@@ -1,0 +1,1 @@
+let selectListItem = document.querySelector("#wedding").innerTex;
