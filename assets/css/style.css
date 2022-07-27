@@ -261,6 +261,7 @@
       transition: all 0.5s ease-in-out;
       cursor: pointer;
       overflow: hidden;
+      display: block;
   }
   
   .portfolio .portfolio-gallery .gallery-child:hover img {
@@ -317,6 +318,7 @@
       border-radius: 15px;
       transition: all 0.5s ease-in-out;
       overflow: hidden;
+      display: block;
   }
   
   .our-leadership .team-main .team-child .team-info {
